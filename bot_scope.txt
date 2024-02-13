@@ -1,0 +1,14 @@
+hello / hi
+
+[city] + weather
+
+[country] +
+capital
+gdp
+size / area
+population
+sea boundary
+average income
+timezone / current time
+sea border / ocean boundary
+good (lemma) + ally / alliance
